@@ -1,2 +1,5 @@
-# silver-funicular
-Demo Website using html , css &amp; java
+# silver-funicular BY LETHUXOLO LANGA
+
+### HOUSE OF DIGITAL ART. ###
+
+#########################################
